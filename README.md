@@ -1,2 +1,2 @@
-# constitution
-PantherHackers constitution
+# PantherHackers' Constitution
+[find it here](constitution.md)
