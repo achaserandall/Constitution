@@ -6,39 +6,39 @@ This organization is to be officially known as GSU HACKERS.  However, it may als
 
 **Article II –**** Purpose Statement**
 
-The purpose of this organization is to bring together those that enjoy blowing bubbles, either with gum or with a bubble solution.
+The purpose of this organization is to bring together those that enjoy coding.
 
 **Article III –**** Membership Requirements**
 
-1. A.To be eligible for membership, candidates must be an enrolled, full-time student at Georgia State University.ÃÂ
-2. B.A Georgia State cumulative grade point average of 2.00 is required for membership.ÃÂ
-3. C.Honorary members shall have demonstrated outstanding service to the bubble blowing community and support the purpose of the organization.ÃÂ
-4. D.Honorary members shall have all the privileges of membership with the exception of voting and holding offices.ÃÂ
-5. E.Bubble Blowing Society will not deny membership on any basis prohibited by law, including but not limited to race, color, national origin, age, religion, disability, veteran's status, sexual orientation, or gender expression. ÃÂ ÃÂ
+1. A.To be eligible for membership, candidates must be an enrolled, full-time student at Georgia State University.
+2. B.A Georgia State cumulative grade point average of 2.00 is required for membership.
+3. C.Honorary members shall have demonstrated outstanding service to the bubble blowing community and support the purpose of the organization.
+4. D.Honorary members shall have all the privileges of membership with the exception of voting and holding offices.
+5. E.Bubble Blowing Society will not deny membership on any basis prohibited by law, including but not limited to race, color, national origin, age, religion, disability, veteran's status, sexual orientation, or gender expression. 
 
 **Article IV –**** Officers**
 
-1. A.The officers of the organization shall be:ÃÂ
+1. A.The officers of the organization shall be:
 
 1.
-  1. 1.PresidentÃÂ
-  2. 2.Vice President ProgrammingÃÂ
-  3. 3.Vice President RecruitmentÃÂ
-  4. 4.Secretary ÃÂ
-  5. 5.TreasurerÃÂ
+  1. 1.President:
+  2. 2.Vice President Programming
+  3. 3.Vice President Recruitment
+  4. 4.Secretary 
+  5. 5.Treasurer
 
-1. B.The collection of these officers shall be known as the Executive Board. ÃÂ Officer duties are to be found in Article V.ÃÂ
-2. C.All officers must have a minimum GPA of 2.5. ÃÂ In addition, they must anticipate being a full-time student during their entire tenure.ÃÂ
+1. B.The collection of these officers shall be known as the Executive Board. Officer duties are to be found in Article V.
+2. C.All officers must have a minimum GPA of 2.5. In addition, they must anticipate being a full-time student during their entire tenure.
 3. D.Officer tenure is from May 1
 # st
  to April 30
 # th
-.ÃÂ
-4. E.Removal from Office:ÃÂ
-  1. 1.Removal from office can be for failure to execute duties or for behavior that is inconsistent with being a leader of a student organization.ÃÂ
-  2. 2.A member of the Executive Board or an active member may initiate the removal process.ÃÂ
-  3. 3.The officer will be given a 14 day notice that their position is being reviewed. ÃÂ The officer may present any information or evidence to the Executive Board or general membership at the scheduled meeting (depends on who initiated the process).ÃÂ
-  4. 4.If the Executive Board initiated the removal process and it passes at their meeting, it must be presented for final approval to the general membership at the next scheduled meeting.ÃÂ
+
+4. E.Removal from Office:
+  1. 1.Removal from office can be for failure to execute duties or for behavior that is inconsistent with being a leader of a student organization.
+  2. 2.A member of the Executive Board or an active member may initiate the removal process.
+  3. 3.The officer will be given a 14 day notice that their position is being reviewed. The officer may present any information or evidence to the Executive Board or general membership at the scheduled meeting (depends on who initiated the process).
+  4. 4.If the Executive Board initiated the removal process and it passes at their meeting, it must be presented for final approval to the general membership at the next scheduled meeting.
 
 **Article V –**** Officer Duties**
 
